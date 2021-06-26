@@ -1,0 +1,39 @@
+.body{
+    background-color: rgb(68, 171, 240);
+}
+.container-fluid{
+  background-color: rgb(68, 171, 240);
+  
+}
+.btn{
+    padding: 10px 20px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #04AA6D;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 4px 9px rgb(63, 58, 58);
+}
+.btn:hover {background-color: #00ff0d}
+
+.btn:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  .mt {
+    text-shadow: 2px 2px #422e2e;
+  }
+
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(225, 192, 229);
+    color: rgb(12, 11, 11);
+  }
+
+
